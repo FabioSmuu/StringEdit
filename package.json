@@ -1,0 +1,38 @@
+{
+  "name": "stredit",
+  "version": "1.0.8",
+  "description": "Este projeto foi criado com o intuito de facilitar o uso de cores, poscionamento e formatação de string de forma leve e individual tratando pequenas funções como uma promise",
+  "main": "index.js",
+  "files": [
+	"index.js"
+  ],
+  "keywords": [
+    "stredit",
+	"string",
+	"texto",
+	"text",
+	"color",
+	"cor",
+	"cores",
+	"linha",
+	"line",
+	"mask",
+	"console",
+	"edit",
+	"painel",
+	"bordas",
+	"interface",
+	"estilo"
+  ],
+  "author": "Smuu",
+  "license": "MIT",
+    "repository": {
+    "type": "git",
+    "url": "https://github.com/FabioSmuu/StringEdit.git"
+  },
+    "bugs": {
+    "url": "hhttps://github.com/FabioSmuu/StringEdit/issues"
+  },
+	"homepage": "https://github.com/FabioSmuu"
+
+}
